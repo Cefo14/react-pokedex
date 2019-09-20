@@ -1,3 +1,6 @@
+### This is a practice using react hooks.
+![Screenshot](https://cdn1.imggmi.com/uploads/2019/9/20/c29fd57b01bd238675054bb86b107449-full.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
